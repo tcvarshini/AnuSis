@@ -1,0 +1,18 @@
+{
+  "name": "webhook-echo-sample",
+  "version": "1.0.0",
+  "description": "Webhook echo sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "chandana",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cloudant": "^1.10.0",
+    "express": "^4.13.4",
+    "oauth2": "0.0.1",
+    "request": "^2.83.0",
+    "unirest": "^0.5.1"
+  }
+}
